@@ -22,7 +22,7 @@ I'm a `Computer Science` graduate student at `George Mason University` building 
 ## Selected Projects
 
 - **DocuMind** — LangGraph ReAct agent for LLM-assisted information extraction from code repositories, with LangSmith tracing and RAGAS evaluation
-- **PDF Parser** — RAG pipeline built solo with FastAPI, LangChain, Gemini API, and Next.js
+- **IntelliDoc** — RAG pipeline built solo with FastAPI, LangChain, Gemini API, and Next.js
 - **Event-Connect** — Fault-tolerant event-driven platform across 6 microservices using Spring Boot & Kafka, sustaining 1,000+ concurrent requests
 - **VoltX** — Real-time mobile app built with React Native
 - **Customer Transaction Recommendation System** — Python ML pipeline with Docker

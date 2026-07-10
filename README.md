@@ -13,7 +13,7 @@ I'm a `Computer Science` graduate student at `George Mason University` building 
 
 - 🏆 `1st Place` — Mission:Hire Summer Hackathon (Salesforce × MetroStar) — built an Agentforce AI agent to score and rank candidates in real time
 - 📜 `Databricks Academy Accreditation` — Generative AI Fundamentals (valid through Sept 2026)
-- ⭐ `3.8 GPA` — MSCS, George Mason University
+- ⭐ `3.7 GPA` — MSCS, George Mason University
 - 🛠️ Diagnosed and resolved `50+ application issues` across student codebases as GTA
 - 📝 Assessed code quality for `200+ students` on OOP and software engineering best practices
 - 🤖 Built AI products using `LLMs`, `RAG`, `LangChain`, `LangGraph agents`, `vector search`, and `prompt engineering`

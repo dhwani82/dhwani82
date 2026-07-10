@@ -54,10 +54,6 @@ I'm a `Computer Science` graduate student at `George Mason University` building 
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-## GitHub Stats
-
-[<img src="https://github-readme-stats.vercel.app/api?username=dhwani82&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwani82&layout=compact&hide_border=true" width="48%" />](https://github-readme-stats.hackclub.dev/api?username=dhwani82&show_icons=true&theme=default&hide_border=true)
 
 ## Let's Connect!
 
